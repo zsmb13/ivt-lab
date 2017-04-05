@@ -3,6 +3,7 @@ package hu.bme.mit.spaceship;
 import static hu.bme.mit.spaceship.FiringMode.ALL;
 import static hu.bme.mit.spaceship.FiringMode.SINGLE;
 
+
 /**
  * A simple spaceship with two proton torpedos and four lasers
  */
